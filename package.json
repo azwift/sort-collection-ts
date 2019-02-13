@@ -1,0 +1,21 @@
+{
+  "name": "sort-collection-ts",
+  "version": "1.0.0",
+  "description": "an inplace sort libary in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp"
+  },
+  "author": "Ali Bitar",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.7.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^5.0.0",
+    "mocha": "^5.2.0",
+    "typescript": "^3.3.3"
+  }
+}

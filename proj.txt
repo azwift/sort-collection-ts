@@ -1,0 +1,4 @@
+proj/
+   ├─ src/
+   ├─ dist/
+   └─ test/
